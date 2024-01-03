@@ -51,8 +51,3 @@ if(loggedInFromGoogle || loggedInFromEmail){
     console.log("Also Allow to buy course");
 }
 
-console.log("--------------");
-
-let x = "false"
-let y = !x
-console.log(y);
